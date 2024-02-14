@@ -1,7 +1,7 @@
-# upGrad E-Shop Application Project
+#  eShop App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
-This project is developed as a part of Assignment Submission provided by upGrad during the course of EPGP-FSD by IIIT-B.
+This project is developed as a part of Assignment Submission provided by upGrad.
 
 ## Available Scripts
 
